@@ -7,7 +7,7 @@ list2 = []
 x = -1
 for el in list1:
     x=x+1
-    tip = type(list1[x])
+    tip = type(list1[x])# ghjdthrfrf
     n=x+1
     d = (f'Тип {n} элемента: {tip}')
     list2.insert(x, d)
